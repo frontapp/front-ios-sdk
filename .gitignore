@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Swift Package Manager
+.swiftpm
+
+# Xcode
+DerivedData/
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/
+.build
+
+# Build artifacts
+*.xcframework
+*.zip
+*.sha256
+
+# IDE files
+.vscode
+.idea
